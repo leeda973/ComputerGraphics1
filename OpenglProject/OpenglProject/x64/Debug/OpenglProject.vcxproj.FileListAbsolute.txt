@@ -1,0 +1,2 @@
+C:\comg\OpenglProject\x64\Debug\freeglutd.dll
+C:\comg\OpenglProject\OpenglProject\x64\Debug\OpenglPr.85A20BE3.Up2Date

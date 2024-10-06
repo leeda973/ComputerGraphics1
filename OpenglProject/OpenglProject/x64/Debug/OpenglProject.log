@@ -1,0 +1,5 @@
+﻿  OpenglSample.cpp
+C:\comg\OpenglProject\OpenglSample.cpp(18,6): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\comg\OpenglProject\OpenglSample.cpp(18,11): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\comg\OpenglProject\OpenglSample.cpp(18,16): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  OpenglProject.vcxproj -> C:\comg\OpenglProject\x64\Debug\OpenglProject.exe
