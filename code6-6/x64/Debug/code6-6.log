@@ -1,0 +1,10 @@
+﻿  6_6.cpp
+C:\comg\OpenGL-Lecture-Samples-main\bonusProj1\6_6.cpp(11,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\comg\OpenGL-Lecture-Samples-main\bonusProj1\6_6.cpp(11,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\comg\OpenGL-Lecture-Samples-main\bonusProj1\6_6.cpp(11,43): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\comg\OpenGL-Lecture-Samples-main\bonusProj1\6_6.cpp(12,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\comg\OpenGL-Lecture-Samples-main\bonusProj1\6_6.cpp(12,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\comg\OpenGL-Lecture-Samples-main\bonusProj1\6_6.cpp(12,43): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\comg\OpenGL-Lecture-Samples-main\bonusProj1\6_6.cpp(41,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\comg\OpenGL-Lecture-Samples-main\bonusProj1\6_6.cpp(53,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  code6-6.vcxproj -> C:\comg\OpenGL-Lecture-Samples-main\bonusProj1\x64\Debug\code6-6.exe
