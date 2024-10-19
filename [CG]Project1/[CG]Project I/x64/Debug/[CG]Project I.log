@@ -1,19 +1,18 @@
 ﻿  proj_1.cpp
-C:\comg\[CG]Project I\proj_1.cpp(12,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-C:\comg\[CG]Project I\proj_1.cpp(12,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-C:\comg\[CG]Project I\proj_1.cpp(14,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-C:\comg\[CG]Project I\proj_1.cpp(14,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-C:\comg\[CG]Project I\proj_1.cpp(17,30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-C:\comg\[CG]Project I\proj_1.cpp(17,35): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-C:\comg\[CG]Project I\proj_1.cpp(17,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-C:\comg\[CG]Project I\proj_1.cpp(18,30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-C:\comg\[CG]Project I\proj_1.cpp(18,35): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-C:\comg\[CG]Project I\proj_1.cpp(18,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-C:\comg\[CG]Project I\proj_1.cpp(88,25): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
-C:\comg\[CG]Project I\proj_1.cpp(88,20): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
-C:\comg\[CG]Project I\proj_1.cpp(88,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
-  LINK : C:\comg\[CG]Project I\x64\Debug\[CG]Project I.exe not found or not built by the last incremental link; performing full link
-  [CG]Project I.vcxproj -> C:\comg\[CG]Project I\x64\Debug\[CG]Project I.exe
+C:\comg\[CG]Project1\proj_1.cpp(12,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\comg\[CG]Project1\proj_1.cpp(12,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\comg\[CG]Project1\proj_1.cpp(14,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\comg\[CG]Project1\proj_1.cpp(14,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\comg\[CG]Project1\proj_1.cpp(17,30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\comg\[CG]Project1\proj_1.cpp(17,35): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\comg\[CG]Project1\proj_1.cpp(17,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\comg\[CG]Project1\proj_1.cpp(18,30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\comg\[CG]Project1\proj_1.cpp(18,35): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\comg\[CG]Project1\proj_1.cpp(18,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\comg\[CG]Project1\proj_1.cpp(88,25): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\comg\[CG]Project1\proj_1.cpp(88,20): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\comg\[CG]Project1\proj_1.cpp(88,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  [CG]Project I.vcxproj -> C:\comg\[CG]Project1\x64\Debug\[CG]Project I.exe
   [31;1mSet-Content: [0mC:\comg\vcpkg\scripts\buildsystems\msbuild\applocal.ps1:12[0m
   [31;1m[0m[36;1mLine |[0m
   [31;1m[0m[36;1m[36;1m  12 | [0m     Set-Content -Path $copiedFilesLog -Value "" [36;1m-Encoding[0m UTF8[0m

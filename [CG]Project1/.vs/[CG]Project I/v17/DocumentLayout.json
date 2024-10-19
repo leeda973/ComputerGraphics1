@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\comg\\[CG]Project I\\",
+  "WorkspaceRootPath": "C:\\comg\\[CG]Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD3E651D-2788-49EB-998A-9883AC9B8472}|[CG]Project I.vcxproj|C:\\comg\\[CG]Project I\\proj_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DD3E651D-2788-49EB-998A-9883AC9B8472}|[CG]Project I.vcxproj|C:\\comg\\[CG]Project1\\proj_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DD3E651D-2788-49EB-998A-9883AC9B8472}|[CG]Project I.vcxproj|solutionrelative:proj_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "proj_1.cpp",
-              "DocumentMoniker": "C:\\comg\\[CG]Project I\\proj_1.cpp",
+              "DocumentMoniker": "C:\\comg\\[CG]Project1\\proj_1.cpp",
               "RelativeDocumentMoniker": "proj_1.cpp",
-              "ToolTip": "C:\\comg\\[CG]Project I\\proj_1.cpp",
+              "ToolTip": "C:\\comg\\[CG]Project1\\proj_1.cpp",
               "RelativeToolTip": "proj_1.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

@@ -1,0 +1,8 @@
+﻿  7_1.cpp
+C:\comg\OpenGL-Lecture-Samples-main\code7-1\7_1.cpp(18,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\comg\OpenGL-Lecture-Samples-main\code7-1\7_1.cpp(18,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\comg\OpenGL-Lecture-Samples-main\code7-1\7_1.cpp(18,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\comg\OpenGL-Lecture-Samples-main\code7-1\7_1.cpp(29,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\comg\OpenGL-Lecture-Samples-main\code7-1\7_1.cpp(29,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\comg\OpenGL-Lecture-Samples-main\code7-1\7_1.cpp(29,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  code7-1.vcxproj -> C:\comg\OpenGL-Lecture-Samples-main\code7-1\x64\Debug\code7-1.exe
